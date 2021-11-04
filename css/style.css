@@ -33,7 +33,7 @@ body {
 .sidebar {
   background: #1e2939;
   width: 370px;
-  padding-top: 40px;
+  /* padding-top: 40px; */
   padding-bottom: 40px;
 }
 
@@ -42,10 +42,9 @@ body {
 }
 
 .about-me-contanier {
-  padding-left: 90px;
-  padding-right: 90px;
+  padding-left: 70px;
+  padding-right: 70px;
   padding-top: 110px;
-  padding-bottom: 110px;
 }
 
 .contacts-container {
@@ -130,7 +129,7 @@ body {
 }
 
 .profession {
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 700;
   line-height: 24px;
   margin-bottom: 23px;
@@ -231,4 +230,16 @@ body {
   font-size: 14px;
   font-weight: 700;
   line-height: 24px;
+}
+
+.icon {
+  margin-right: 10px;
+  fill: white;
+  width: 16px;
+  height: 16px;
+  transition: 250ms width cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.icon:hover {
+  width: 20px;
 }
