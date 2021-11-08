@@ -1,16 +1,8 @@
-/*
-.Soft-Skills-container {
-  background: #1e2939;
-  width: 400px;
-  height: 200px;
-  box-sizing: border-box;
-  margin-top: 40px;
-}
-*/
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  font-family: Montserrat;
 }
 
 body {
@@ -33,7 +25,6 @@ body {
 .sidebar {
   background: #1e2939;
   width: 370px;
-  /* padding-top: 40px; */
   padding-bottom: 40px;
 }
 
@@ -100,8 +91,9 @@ body {
 }
 
 .tech-skill-text {
-  color: #e8e9eb;
+  color: #ffffff;
 }
+
 .soft-skills-container {
   margin-top: 55px;
   margin-left: 40px;
@@ -125,7 +117,7 @@ body {
 }
 
 .soft-skill-text {
-  color: #e8e9eb;
+  color: #ffffff;
 }
 
 .profession {
@@ -142,7 +134,7 @@ body {
 }
 
 .description {
-  color: #595959;
+  color: black;
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
@@ -160,21 +152,21 @@ body {
 }
 
 .projects-link {
-  color: #595959;
+  color: black;
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
 }
 
 .tech-name {
-  color: #595959;
+  color: black;
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
 }
 
 .dots {
-  color: #595959;
+  color: black;
   font-weight: 100;
 }
 
@@ -202,8 +194,8 @@ body {
 }
 
 .profession-time {
-  color: #a8a8a8;
-  font-size: 12px;
+  color: black;
+  font-size: 14px;
   font-weight: 400;
   line-height: 24px;
 }
@@ -219,7 +211,7 @@ body {
 }
 
 .profession-duties-item {
-  color: #595959;
+  color: black;
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
