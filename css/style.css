@@ -133,16 +133,16 @@ body {
   line-height: 89px;
 }
 
-.description {
+/* .description {
   color: black;
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
-  margin-top: 24px;
-}
+  margin-top: 24px; 
+}*/
 
 .info-container {
-  margin-bottom: 65px;
+  margin-bottom: 50px;
 }
 .about-me-title {
   font-size: 22px;
